@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_launch"
+        android:orderInCategory="1"
+        android:icon="@drawable/ic_launch_app"
+        android:title="@string/launch_app"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_playstore"
+        android:orderInCategory="2"
+        android:icon="@drawable/ic_android"
+        android:title="@string/open_in_play_store"
+        app:showAsAction="always"/>
+</menu>

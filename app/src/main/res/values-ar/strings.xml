@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="drawer_close">غلق درج التنقل</string>
+    <string name="drawer_open">فتح درج التنقل</string>
+    <string name="extract">استخراج</string>
+    <string name="share_apk">مشاركة الـ APK</string>
+    <string name="uninstall">الغاء التثبيت</string>
+    <string name="launch_app">تشغيل التطبيق</string>
+    <string name="open_in_play_store">فتح فى البلاى ستور</string>
+    <string name="cant_open_app">لا يمكن فتح هذا التطبيق</string>
+    <string name="apk_extracted_success">تم استخراج APK بنجاح!!</string>
+    <string name="apk_deleted_success">APK has been deleted successfully!!</string>
+
+    <string name="share_the_apk">مشاركة APK باستخدام</string>
+    <string name="storage_perms_req">استخدام إذن التخزين مطلوب</string>
+    <string name="more">المزيد!</string>
+    <string name="rate_this_app">قيم هذا التطبيق</string>
+    <string name="feedback_for_app">ردود الفعل لتطبيقك</string>
+    <string name="feedback_device_os">نظام تشغيل الجهاز : Android</string>
+    <string name="feedback">ردود الفعل</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="choose_email_client">اختر عميل البريد الإلكتروني:</string>
+    <string name="feedback_device_version">إصدار نظام التشغيل:</string>
+    <string name="feedback_device_brand">\\n ماركة الجهاز:</string>
+    <string name="feedback_device_model">\\n طراز الجهاز:</string>
+    <string name="feedback_device_manufacturer">\\n الشركة المصنعة للجهاز:</string>
+    <string name="feedback_app_version">\\n إصدار التطبيق:</string>
+    <string name="dummy_label" >تسمية وهمية</string>
+    <string name="dummy_package" >حزمة وهمية</string>
+
+    <string name="delete">حذف</string>
+    <string name="install">تنصيب</string>
+    <string name="installed">Installed</string>
+    <string name="library">Library</string>
+    <string name="user_apps">تطبيقات المستخدم</string>
+    <string name="system_apps">تطبيقات النظام</string>
+    <string name="our_apps">تطبيقاتنا الأخرى</string>
+</resources>

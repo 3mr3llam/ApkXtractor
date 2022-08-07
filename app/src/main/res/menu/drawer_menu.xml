@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_rate"
+            android:icon="@drawable/ic_rate_review"
+            android:title="@string/rate_this_app"/>
+
+        <item
+            android:id="@+id/action_feedback"
+            android:icon="@drawable/ic_feedback"
+            android:title="@string/feedback"/>
+
+        <item
+            android:id="@+id/action_privacy"
+            android:icon="@drawable/ic_privacy_lock"
+            android:title="@string/privacy_policy"/>
+
+        <!--<item-->
+            <!--android:id="@+id/action_about"-->
+            <!--android:icon="@drawable/ic_copyright"-->
+            <!--android:title="About App"/>-->
+    </group>
+</menu>

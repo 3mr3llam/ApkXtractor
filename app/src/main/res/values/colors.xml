@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#353535</color>
+    <color name="colorPrimaryDark">#4457CF</color> <!-- C1C1C1-->
+    <color name="colorAccent">#F44336</color>
+
+    <color name="shadow">#bdbbbb</color>
+    <color name="bg_action_mode">#757575</color>
+    <color name="light_grey">#FAF9F9</color>
+    <color name="background">#f9f7f7</color>
+
+    <color name="mainBackground">#252525</color>
+    <color name="userAppsBackground">#F6F6F6</color>
+    <color name="systemAppsBackground">#EDEDED</color>
+    <color name="libraryBackground">#CCCBCB</color>
+    <color name="allAppsBackground">#F3F3F3</color>
+
+    <color name="textAlt1">#4CAF50</color>
+    <color name="textAlt2">#3F51B5</color>
+    <color name="textAlt3">#F44336</color>
+
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name" translatable="false">ApkXtractor</string>
+    <string name="dummy_label">Dummy Label</string>
+    <string name="dummy_package">Dummy Package</string>
+    <string name="extract">Extract</string>
+    <string name="share_apk">Share APK</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="launch_app">Launch app</string>
+    <string name="open_in_play_store">Open in play store</string>
+    <string name="cant_open_app">Can\'t open this app</string>
+    <string name="apk_extracted_success">APK has been extracted successfully!!</string>
+    <string name="apk_deleted_success">APK has been deleted successfully!!</string>
+    <string name="share_the_apk">Share the APK using</string>
+    <string name="storage_perms_req">Storage permission is required</string>
+
+    <string name="more">More!</string>
+
+
+    <string name="rate_this_app">Rate this app</string>
+    <string name="feedback_for_app">Feedback for Your Android App</string>
+    <string name="feedback_device_os">Device OS: Android</string>
+    <string name="feedback_device_version">\n Device OS version:</string>
+    <string name="feedback_device_brand">\n Device Brand:</string>
+    <string name="feedback_device_model">\n Device Model:</string>
+    <string name="feedback_device_manufacturer">\n Device Manufacturer:</string>
+    <string name="feedback_app_version">\n App Version:</string>
+    <string name="choose_email_client">Choose an Email client :</string>
+    <string name="feedback">Feedback</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="delete">Delete</string>
+
+
+    <string name="install">Install</string>
+    <string name="installed">Installed</string>
+    <string name="user_apps">User Apps</string>
+    <string name="system_apps">System Apps</string>
+    <string name="library">Library</string>
+    <string name="our_apps">Our Apps</string>
+
+    <string name="app_admob_id" translatable="false">ca-app-pub-8362919100299881~7066840497</string>
+    <string name="app_user_banner" translatable="false">ca-app-pub-8362919100299881/6426167509</string>
+    <string name="app_system_banner" translatable="false">ca-app-pub-8362919100299881/9546893431</string>
+    <string name="app_library_banner" translatable="false">ca-app-pub-8362919100299881/2215198326</string>
+    <string name="app_admob_interstitial" translatable="false">ca-app-pub-8362919100299881/5128302128</string>
+
+    <string name="test_admob_banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="test_admob_interstitial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+</resources>

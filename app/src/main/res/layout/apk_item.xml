@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_105sdp"
+    app:cardElevation="@dimen/_2sdp"
+    app:cardPreventCornerOverlap="true"
+    app:cardBackgroundColor="@color/light_grey"
+    android:layout_margin="@dimen/_2sdp"
+    app:cardCornerRadius="@dimen/_5sdp">
+
+    <RelativeLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/apk_icon_iv"
+            android:layout_width="@dimen/_48sdp"
+            android:layout_height="@dimen/_48sdp"
+            android:layout_marginStart="@dimen/_16sdp"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:maxWidth="@dimen/_48sdp"
+            android:maxHeight="@dimen/_48sdp"
+            tools:ignore="contentDescription"
+            tools:src="@color/colorPrimary"/>
+
+        <TextView
+            android:id="@+id/apk_label_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/apk_icon_iv"
+            android:layout_marginStart="@dimen/_16sdp"
+            android:layout_toStartOf="@+id/menu_btn"
+            android:layout_toEndOf="@+id/apk_icon_iv"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-light"
+            android:maxLines="1"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:text="@string/dummy_label"
+            android:textSize="@dimen/_16ssp"/>
+
+        <TextView
+            android:id="@+id/apk_package_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/apk_label_tv"
+            android:layout_marginStart="@dimen/_16sdp"
+            android:layout_toStartOf="@+id/menu_btn"
+            android:layout_toEndOf="@+id/apk_icon_iv"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-thin"
+            android:maxLines="1"
+            android:text="@string/dummy_package"
+            android:textStyle="bold"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/_10ssp"/>
+
+        <ImageButton
+            android:id="@+id/menu_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="@dimen/_12sdp"
+            android:layout_marginEnd="@dimen/_8sdp"
+            android:padding="@dimen/_6sdp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_menu_more"
+            tools:ignore="contentDescription"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal"
+            android:layout_marginBottom="@dimen/_8sdp"
+            android:weightSum="3">
+
+            <Button
+                android:id="@+id/extract_btn"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/extract"
+                android:textColor="@color/textAlt1"
+                android:textSize="@dimen/_11ssp"/>
+
+            <Button
+                android:id="@+id/share_btn"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/share_apk"
+                android:textColor="@color/textAlt2"
+                android:textSize="@dimen/_11ssp"/>
+
+            <Button
+                android:id="@+id/uninstall_btn"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/uninstall"
+                android:textColor="@color/textAlt3"
+                android:textSize="@dimen/_11ssp"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
