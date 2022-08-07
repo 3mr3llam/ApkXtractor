@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:1:1-12:12
+INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:1:1-12:12
+	package
+		ADDED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:2:5-32
+		INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:1:1-12:12
+		INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:1:1-12:12
+		INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:3:5-63
+application
+ADDED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:5:5-10:19
+	android:supportsRtl
+		ADDED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml:6:9-35
+uses-sdk
+INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\ApkXtractor\coolmenu\src\main\AndroidManifest.xml

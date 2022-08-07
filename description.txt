@@ -1,0 +1,15 @@
+If you need to extract any application on your device and have the its apk file, then Apk Xtractor is your best choice.
+
+ Apk Xtractor will extract any APK which is installed on your android device and copies it to the SD card.
+
+
+Apk Xtractor's Features:
+
+✔No ROOT access required.
+✔Easy wasy to extract all applications,including system applications.
+✔Share Installed Application Apk or extracted (.apk file).
+✔Three Filters/Categories for the apps (User's apps - System apps - Library).
+✔User-Freindly UI design.
+✔Launch any app from Apk Xtractor.
+✔Access every app's playstore page.
+

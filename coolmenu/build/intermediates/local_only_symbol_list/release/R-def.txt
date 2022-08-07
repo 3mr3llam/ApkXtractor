@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+attr? num
+attr? titleColor
+attr? titleIcon
+attr? titleSize
+dimen cl_title_size
+dimen cl_title_trans
+dimen shadow_outline
+drawable menu
+drawable menu2
+id cl_menu
+id cl_title
+id five
+id four
+id one
+id three
+id two
+id view0
+id view1
+id view2
+id view3
+id view4
+layout layout_title
+string app_name
+styleable CoolMenuFrameLayout num titleSize titleColor titleIcon
